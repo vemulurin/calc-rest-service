@@ -1,7 +1,6 @@
 RESTful Web APIs with Node.js, Express and TypeScript
 This is a simple API to add,subtract,multiply and divide two numbers
 
-There are two versions of this project.
 
 you can run the server directly after cloning this version. It will create a simple RESTful API over HTTP.
 
